@@ -1,4 +1,4 @@
-function RecArray_SIM_forRuss_v2(TransParams)
+function AEI_Pressure_SIMS(TransParams)
 %% 
 %This script will execute a simulation of a phased transducer array for use in
 %acoustoelectric cardiac imaging (ACI)
